@@ -13,4 +13,7 @@ __pycache__/
 # IDE ve Sistem Dosyaları
 .vscode/
 .idea/
-*.DS_Store 
+*.DS_Store
+
+# Rapor Dosyaları
+proje_raporu.md 
