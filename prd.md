@@ -31,8 +31,7 @@ Bu projenin amacı, UCI Machine Learning Repository'de yer alan "Heart Disease" 
 - Scikit-learn
 - Pandas, NumPy
 - Matplotlib, Seaborn (veri görselleştirme)
-- Jupyter Notebook veya Google Colab
-- (Opsiyonel) Streamlit ile etkileşimli uygulama sunumu
+- Jupyter Notebook 
 
 ## Adımlar
 
@@ -45,7 +44,6 @@ Bu projenin amacı, UCI Machine Learning Repository'de yer alan "Heart Disease" 
 2. **Modelleme**
    - Decision Tree modeli oluşturulması
    - Model eğitimi ve test edilmesi
-   - Diğer modellerle (Random Forest, Gradient Boosting) karşılaştırma yapılması
 
 3. **Performans Değerlendirmesi**
    - Accuracy, sensitivity, specificity, F1-score hesaplanması
