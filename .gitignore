@@ -1,0 +1,16 @@
+# Sanal Ortam
+venv/
+*.venv
+
+# Python Bytecode ve Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE ve Sistem Dosyaları
+.vscode/
+.idea/
+*.DS_Store 
